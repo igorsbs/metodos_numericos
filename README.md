@@ -5,5 +5,5 @@ Este é o repositório destinado para os os códigos desenvolvidos em _Python No
 
 Seguem os links para os programas desenvolvidos:
 
-[programa_1](programa_1)
-
+[programa_1](/programa_1/programa_1_nb.ipynb)
+[programa_2](/programa_2/programa_2_nb.ipynb)
